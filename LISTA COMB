@@ -1,0 +1,82 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="bein.sports.8.us" tvg-name="US123:BeIN8 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US123BeIN8Sports.png" group-title="USA Sports",US123:BeIN8 Sports
+http://mu02.v2iptv.com:8880/chtest005/Y734898977/30067
+#EXTINF:-1 tvg-id="bein.sports.7.us" tvg-name="US124:BeIN7 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US124BeIN7Sports.png" group-title="USA Sports",US124:BeIN7 Sports
+http://mu02.v2iptv.com:8880/chtest005/Y734898977/30066
+#EXTINF:-1 tvg-id="bein.sports.6.us" tvg-name="US125:BeIN6 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US125BeIN6Sports.png" group-title="USA Sports",US125:BeIN6 Sports
+http://mu02.v2iptv.com:8880/chtest005/Y734898977/30065
+#EXTINF:-1 tvg-id="bein.sports.5.us" tvg-name="US126:BeIN5 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US126BeIN5Sports.png" group-title="USA Sports",US126:BeIN5 Sports
+http://mu02.v2iptv.com:8880/chtest005/Y734898977/30064
+#EXTINF:-1 tvg-id="bein.sports.4.us" tvg-name="US127:BeIN4 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US127BeIN4Sports.png" group-title="USA Sports",US127:BeIN4 Sports
+http://mu02.v2iptv.com:8880/chtest005/Y734898977/30063
+#EXTINF:-1 tvg-id="bein.sports.us" tvg-name="US128:BeIN SPORTS EN ESPANOL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US128BeIN2Sports.png" group-title="USA Sports",US128:BeIN SPORTS EN ESPANOL
+http://mu02.v2iptv.com:8880/chtest005/Y734898977/30062
+#EXTINF:-1 tvg-id="bein.sports.us" tvg-name="US129:BeIN_Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US129BeIN_Sports.png" group-title="USA Sports",US129:BeIN_Sports
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 1 HD"  group-title="Unsorted",*TSN 1 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/138
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 2 HD"  group-title="Unsorted",*TSN 2 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/139
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 3 HD"  group-title="Unsorted",*TSN 3 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/140
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 4 HD"  group-title="Unsorted",*TSN 4 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/141
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 5 HD"  group-title="Unsorted",*TSN 5 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/142
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*ESPN HD"  group-title="Unsorted",*ESPN HD
+http://f.ok2.se:8000/Fonzi/Fonzi/143
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN 2 HD"  group-title="Unsorted",ESPN 2 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/144
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN ACC HD"  group-title="Unsorted",ESPN ACC HD
+http://f.ok2.se:8000/Fonzi/Fonzi/86092
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN NEWS HD - NEW"  group-title="Unsorted",ESPN NEWS HD - NEW
+http://f.ok2.se:8000/Fonzi/Fonzi/59038
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*FOX SPORTS 1 HD"  group-title="Unsorted",*FOX SPORTS 1 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/145
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*FOX SPORTS 2 HD"  group-title="Unsorted",*FOX SPORTS 2 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/146
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*SPORTSNET ONT HD"  group-title="Unsorted",*SPORTSNET ONT HD
+http://f.ok2.se:8000/Fonzi/Fonzi/148
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*SPORTSNET ONE HD"  group-title="Unsorted",*SPORTSNET ONE HD
+http://f.ok2.se:8000/Fonzi/Fonzi/149
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SPORTSNET WEST HD"  group-title="Unsorted",SPORTSNET WEST HD
+http://f.ok2.se:8000/Fonzi/Fonzi/8890
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*SPORTSNET PACIFIC HD"  group-title="Unsorted",*SPORTSNET PACIFIC HD
+http://f.ok2.se:8000/Fonzi/Fonzi/2434
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*SPORTSNET 360 HD"  group-title="Unsorted",*SPORTSNET 360 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/147
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*SPORTSNET WORLD HD"  group-title="Unsorted",*SPORTSNET WORLD HD
+http://f.ok2.se:8000/Fonzi/Fonzi/150
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*NFL NETWORK HD"  group-title="Unsorted",*NFL NETWORK HD
+http://f.ok2.se:8000/Fonzi/Fonzi/157
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*NHL NETWORK HD"  group-title="Unsorted",*NHL NETWORK HD
+http://f.ok2.se:8000/Fonzi/Fonzi/156
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TENNIS HD"  group-title="Unsorted",TENNIS HD
+http://f.ok2.se:8000/Fonzi/Fonzi/167
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORTS 1 HD"  group-title="Unsorted",BT SPORTS 1 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/225
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORTS 2 HD"  group-title="Unsorted",BT SPORTS 2 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/226
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORTS 3 HD"  group-title="Unsorted",BT SPORTS 3 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/232
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORTS ESPN"  group-title="Unsorted",BT SPORTS ESPN
+http://f.ok2.se:8000/Fonzi/Fonzi/233
